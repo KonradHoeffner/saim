@@ -4,7 +4,7 @@
 <LIMES>
 	<SOURCE>
 		<ID>linkedmdb</ID>
-		<ENDPOINT>C:/tmp/dbpedia-linkedmdb/source2.csv</ENDPOINT>
+		<ENDPOINT>source2.csv</ENDPOINT>
 		<VAR>?x</VAR>
 		<PAGESIZE>-1</PAGESIZE>
 		<RESTRICTION></RESTRICTION>
@@ -14,7 +14,7 @@
 	</SOURCE>
 	<TARGET>
 		<ID>dbpedia</ID>
-		<ENDPOINT>C:/tmp/dbpedia-linkedmdb/target2.csv</ENDPOINT>
+		<ENDPOINT>target2.csv</ENDPOINT>
 		<VAR>?y</VAR>
 		<PAGESIZE>-1</PAGESIZE>
 		<RESTRICTION></RESTRICTION>
